@@ -23,7 +23,7 @@ Welcome to **Edu Buddy**, a Streamlit-based tool designed to help users understa
 ## 🛠️ **Installation & Setup**
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone [https://github.com/achuajays/Edu-Buddy.git](https://github.com/achuajays/Edu-Buddy.git)
+git clone https://github.com/achuajays/Edu-Buddy.git
 cd education-app
 ```
 

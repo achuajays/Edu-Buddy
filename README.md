@@ -53,8 +53,7 @@ education-app/
 │── main.py                 # Main entry point
 │── requirements.txt        # Dependencies
 │── README.md               # Documentation
-│── assets/                 # Images and banners
-│   ├── banner.png          # Banner image for UI & README
+│── banner.png          # Banner image for UI & README
 │── modules/
 │   ├── data_structure_understander.py  # Algorithm explainer
 │   ├── theory_explainer.py             # Theory explainer
@@ -85,7 +84,7 @@ MIT License - Free to use and modify.
 ---
 
 # 🎉 Happy Learning!
-```
 
----
+
+--- 
 

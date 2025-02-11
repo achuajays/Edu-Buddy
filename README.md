@@ -4,7 +4,7 @@ Welcome to **Edu Buddy**, a Streamlit-based tool designed to help users understa
 
 
 
-![Edu Buddy Banner](assets/banner.png)
+![Edu Buddy Banner](banner.png)
 
 
 ## 🎯 **Features**
